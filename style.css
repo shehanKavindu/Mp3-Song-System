@@ -95,7 +95,7 @@ body {
     -moz-appearance: none;
     appearance: none;
     height: 5px;
-    background: #83A9FF;
+    background: blueviolet;
     -webkit-transition: .2s;
     transition: opacity .2s;
 }
@@ -175,11 +175,11 @@ p {
 @keyframes animate {
     50% {
         height: 20%;
-        background: #4286f4;
+        background: blueviolet;
     }
 
     100% {
-        background: #4286f4;
+        background: blueviolet;
         height: 100%;
     }
 }
