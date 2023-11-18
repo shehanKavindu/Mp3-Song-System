@@ -165,7 +165,7 @@ p {
     align-items: center;
 }
 .loader .stroke{
-    background: #f1f1f1;
+    background: mistyrose;
     height: 150%;
     width: 10px;
     border-radius: 50px;
@@ -203,6 +203,8 @@ p {
 }
 .stroke:nth-child(7){
     animation-delay: 0s;
+
+
 }
 
 
