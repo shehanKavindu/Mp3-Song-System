@@ -76,6 +76,7 @@ body {
     transition: opacity .2s;
 }
 
+
 .repeat-track:hover,
 .random-track:hover,
 .playpause-track:hover,
@@ -89,6 +90,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+}
+
 
 .seek_slider, .volume_slider {
     -webkit-appearance: none;
