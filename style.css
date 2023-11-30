@@ -111,7 +111,7 @@ body {
     border: 3px solid #3774FF;
     cursor: grab;
     border-radius: 100%;
-
+}
 
 .seek_slider:hover,
 .volume_slider:hover {
