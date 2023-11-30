@@ -100,7 +100,7 @@ body {
     height: 5px;
     background: blueviolet;
     -webkit-transition: .2s;
-    transition: opacity .2s;
+    transition: opacity .3s;
 }
 
 .seek_slider::-webkit-slider-thumb,
