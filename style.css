@@ -109,7 +109,7 @@ body {
     -moz-appearance: none;
     appearance: none;
     width: 15px;
-    height: 15px
+    height: 15px;
     background: floralwhite;
     border: 3px solid #3774FF;
     cursor: grab;
